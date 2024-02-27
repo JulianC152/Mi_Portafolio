@@ -1,0 +1,241 @@
+{
+  "basics": {
+    "name": "Julian Andres Charfuelan Sanchez",
+    "label": "Desarrollador de Software, con mas de 1 año de experiencia",
+    "image": "/me.webp",
+    "email": "julianc416@gmail.com",
+    "phone": "+57 3178714142",
+    "url": "https://midu.dev",
+    "summary": "Tesista de Ingenieria de Software y Computacion, con mas de 1 año de experiencia trabajando para diferentes empresas como desarrollador de software.",
+    "location": {
+      "address": "",
+      "postalCode": "08820",
+      "city": "Popayán, Cauca",
+      "countryCode": "ES",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "JulianC",
+        "url": "https://www.linkedin.com/in/julian-andres-charfuelan-sanchez-a82647181/"
+      },
+      {
+        "network": "X",
+        "username": "@julian90006457",
+        "url": "https://twitter.com/julian90006457"
+      },
+      {
+        "network": "GitHub",
+        "username": "JulianC152",
+        "url": "https://github.com/JulianC152"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Desarrollador de Software",
+      "position": "Seguridad Atlas Ltda",
+      "url": null,
+      "startDate": "2022-07-01",
+      "endDate": "2022-12-15",
+      "summary": "Ejecute tareas como desarrollador de sofware, trabajando como lider del proyecto 'RPA', en donde realizaba nuevas funciones segun el personal de la empresa lo requeria, a su ves se le realizaban actualizaciones para la mejora del mismo.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Ingeniero de Software",
+      "position": "It Team",
+      "url": null,
+      "startDate": "2023-05-01",
+      "endDate": "2023-12-01",
+      "summary": "Ejecute tareas de diferentes tipos, como desarrollar nuevas funcionalidades y modificaciones para diferentes paginas web de los clientes; tambien realizaba reportes en ORACLE para clientes con sentencias SQL.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [
+    {
+      "institution": "Servicio Nacional De Aprendizaje(SENA).",
+      "url": "https://sena.territorio.la/cms/index.php",
+      "area": "Tecnico en Sistemas",
+      "studyType": "Bachelor",
+      "startDate": "2015-02-01",
+      "endDate": "2016-12-16",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    },
+    {
+      "institution": "Universidad Del Cauca.",
+      "url": "https://www.unicauca.edu.co/",
+      "area": "Curso De Ingles",
+      "studyType": "Bachelor",
+      "startDate": "2014-02-01",
+      "endDate": "2019-12-19",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    },
+    {
+    "institution": "Universidad Autonoma Del Cauca.",
+    "url": "https://www.uniautonoma.edu.co/",
+    "area": "Ingeniero de Software y Computacion",
+    "studyType": "Bachelor",
+    "startDate": "2017-02-01",
+    "endDate": "Actual",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }
+  ],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "Prueba Técnica",
+      "isActive": true,
+      "description": "Prueba Tecnica Realizada",
+      "highlights": [
+        "Php",
+        "API",
+        "Backend"
+      ],
+      "url": "https://github.com/JulianC152/Prueba_Tecnica",
+      "github": "https://github.com/JulianC152/Prueba_Tecnica"
+    }
+  ]
+}
